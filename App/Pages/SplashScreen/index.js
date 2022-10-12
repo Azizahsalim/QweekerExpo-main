@@ -44,7 +44,7 @@ const styles = StyleSheet.create({
     alignContent: "center",
   },
   headerText:{
-   //fontFamily:'Poppins-SemiBold',
+    fontFamily: 'Poppins-SemiBold',
     textAlign:'left',
     fontSize:30,
     fontWeight:'bold'
@@ -52,13 +52,13 @@ const styles = StyleSheet.create({
   bodyText:{
     marginTop:10,
     marginBottom:50,
-    //fontFamily:'Poppins-Medium',
+    fontFamily: 'Poppins-Medium',
     fontSize:16,
   },
   footherText:{
     textAlign:'center',
     marginTop:50,
-    //fontFamily: 'Poppins-Medium',
+    fontFamily: 'Poppins-Medium',
     fontSize:16,
   }
 });
